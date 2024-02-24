@@ -1,1 +1,5 @@
 .DS_Store
+datasets/dev_set_all.json
+datasets/test_set_all.public.json
+datasets/__MACOSX/._dev_set_all.json
+datasets/__MACOSX/._test_set_all.public.json
